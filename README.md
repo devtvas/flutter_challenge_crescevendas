@@ -27,14 +27,22 @@
 
 * Desenvolver uma aplicação web (React) ou um aplicativo móvel (Flutter) para gerenciar campanhas de desconto.
 
-- <img src="assets\readme_figma.png" height="200em" /> 
+ <img src="assets/readme_figma_1.png" height="400em" width="200em" /> 
+ <img src="assets/readme_figma.png" height="400em"  width="200em"/> 
+
+<h2>Funcionalidade do app</h2>
+
+- Listagem de Produtos: Exibir produtos disponíveis para desconto, incluindo imagens, preços e descrições.
+- Criação de Descontos: Interface para gerenciamento de descontos a produtos específicos, definindo o desconto como: de/por ou leve + page.
+- Visualização de Campanhas: Permite visualizar e editar campanhas de desconto criadas, mostrando o preço original e o preço com desconto.
+- Persistência de Dados: As campanhas de desconto devem ser salvas localmente para persistir entre as sessões do navegador ou dispositivo.
 
 
 <h2>Requisitos de ambiente:</h2>
 
-* Proficiência com Flutter para desenvolvimento de UI, gestão de estado (preferencialmente usando Mobx) e navegação entre telas.
-Estruturação do projeto em módulos reutilizáveis utilizando Flutter Modular.
-Desenvolvimento de testes utilizando o Flutter Test para componentes chave.
+- Proficiência com Flutter para desenvolvimento de UI, gestão de estado (preferencialmente usando Mobx) e navegação entre telas.
+-  Estruturação do projeto em módulos reutilizáveis utilizando Flutter Modular.
+- Desenvolvimento de testes utilizando o Flutter Test para componentes chave.
 
 
 <h2>Detalhes de Configuracao</h2>
